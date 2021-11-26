@@ -1,0 +1,26 @@
+body {
+
+}
+
+.header_container {
+    font-family: sans-serif;
+}
+
+.navigation_container {
+    font-family: sans-serif;
+}
+
+.accommodations_container {
+    background-color: gray;
+    
+    font-family: sans-serif;
+}
+
+.activities_container {
+    font-family: sans-serif;
+}
+
+.footer_container {
+    background-color: gray;
+}
+
